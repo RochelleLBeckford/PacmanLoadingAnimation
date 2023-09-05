@@ -1,4 +1,4 @@
-# PacmanLoadingAnimation
+# Pacman Loading Animation
 <!-- can have readme preview open as well to see how it will appear -->
 <!-- ## this is a sub heading -->
 ## *Concept:*
